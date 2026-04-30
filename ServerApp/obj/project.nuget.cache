@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FWYgdhLM2rc=",
+  "success": true,
+  "projectFilePath": "/Users/nguyenhuuhung/Downloads/FullStack DotNet Coursera/Fullstack Integration/FullStackApp/ServerApp/ServerApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/nguyenhuuhung/.nuget/packages/microsoft.aspnetcore.openapi/9.0.10/microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "/Users/nguyenhuuhung/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
