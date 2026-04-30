@@ -1,0 +1,72 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains IDE
+.idea/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+# Uncomment if you don’t want to check in package binaries
+# *.dll
+# *.exe
+
+# Dotnet tools
+.dotnet/
+
+# Generated files
+*.generated.*
+*.g.*
+
+# Debug / Release folders
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Publish outputs
+publish/
+*.pubxml
+*.publishproj
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# TFS
+$tf/
+
+# Others
+*.dbmdl
+*.jfm
+*.pdb
+*.cache
+*.config
